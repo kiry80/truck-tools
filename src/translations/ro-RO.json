@@ -360,26 +360,26 @@
                     "title": "Deblocați trailerul actual",
                     "warning_message": {
                         "message": "Trebuie să aveți remorca atașată la camion pentru ca modificările să intre în vigoare.",
-                        "title": "Ține minte"
+                        "title": "Ține minte!"
                     }
                 }
             },
             "change_trailer": {
-				"description_card": "Change your trailer without going to the garage",
-				"label_card": "Change Trailer on road",
+				"description_card": "Schimbați-vă remorca fără a merge în garaj",
+				"label_card": "Schimbați remorca pe drum",
 				"modal": {
-					"btn_apply": "Change",
+					"btn_apply": "Schimbă",
 					"btn_how_to_use": "How to use",
-					"btn_close": "Close",
-					"btn_open": "Open",
-					"description": "Change your trailer without going to the garage",
-					"title": "Change your trailer on the road",			
-					"select_label": "Trailers",	
-					"select_error": "Trailers not found",	
-					"select_placeholder": "Select a trailer",
+					"btn_close": "închide",
+					"btn_open": "Deschide",
+					"description": "Schimbați-vă remorca fără a merge în garaj",
+					"title": "Schimbați-vă remorca pe drum",			
+					"select_label": "Renorci",	
+					"select_error": "Remorcile nu au fost găsite",	
+					"select_placeholder": "Selectați o remorcă",
 					"warning_message": {
-						"title": "Warning",
-						"message": "If you created a new save, remember to update the list of trailers so you don't get an error when changing trailers."
+						"title": "Avertizare!",
+						"message": "Dacă ați creat o nouă salvare, nu uitați să actualizați lista de remorci, astfel încât să nu primiți o eroare la schimbarea remorcilor."
 					}
 				}
 			}
@@ -409,7 +409,7 @@
                     "title": "Schimbați motor camion",
                     "warning_message": {
                         "message": "Dacă vedeți orice <b>logo plutind sau poziționat</b> prost pe camion, îl puteți elimina cu butonul de mai jos.",
-                        "title": "Ține minte"
+                        "title": "Ține minte!"
                     }
                 }
             },
@@ -437,7 +437,7 @@
                     "title": "Schimbați transmisia",
                     "warning_message": {
                         "message": "Dacă vedeți orice <b>logo plutind sau poziționat prost</b> pe camion, îl puteți elimina cu butonul de mai jos.",
-                        "title": "Ține minte"
+                        "title": "Ține minte!"
                     }
                 }
             },
@@ -475,7 +475,7 @@
                     "title": "Combustibil infinit pe camionul actual",
                     "warning_message": {
                         "message": "<b>Dezactivați „Consum realist de combustibil”</b> în secțiunea „Joc” pentru ca această funcție să intre în vigoare.",
-                        "title": "Ține minte"
+                        "title": "Ține minte!"
                     }
                 }
             },
@@ -541,7 +541,7 @@
                     "select_error": "Nu au fost găsite camioane",
                     "select_placeholder": "Alegeți un camion",
                     "warning_message": {
-                        "title": "Avertizare",
+                        "title": "Avertizare!",
                         "message": "Dacă ați creat o nouă salvare, nu uitați să actualizați lista de camioane pentru a nu primi o eroare la schimbarea camioanelor."
                     }
                 }
