@@ -551,13 +551,13 @@
 				"label_card": "Teleportați poziția jucătorului",
 				"modal": {
 					"btn_apply": "Teleportați",
-					"btn_how_to_use": "How to use",
+					"btn_how_to_use": "Cum se utilizează",
 					"btn_close": "închide",
 					"btn_open": "Deschide",
 					"description": "Teleportați într-o locație folosind camera de depanare a jocului",
 					"title": "Teleportați poziția jucătorului",			
 					"warning_message": {
-						"title": "Remember",
+						"title": "Ține minte",
 						"message_1": "- Trebuie să activați modul consolă și dezvoltator pentru a utiliza această opțiune; poți face asta în setări (cu jocul închis)",
 						"message_2": "- Pentru a genera coordonate noi, trebuie să utilizați următoarea combinație de taste: <b>Alt + F12</b>"
 					}
